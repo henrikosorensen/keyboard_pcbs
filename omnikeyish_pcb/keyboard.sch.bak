@@ -1,0 +1,23 @@
+EESchema Schematic File Version 4
+LIBS:keyboard-cache
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 5750 950  5300 3900
+U 5C8A9DB4
+F0 "KeyboardMatrix" 50
+F1 "KeyboardMatrix.sch" 50
+$EndSheet
+$EndSCHEMATC

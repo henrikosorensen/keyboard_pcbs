@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name keyboard-rescue)(type Legacy)(uri ${KIPRJMOD}/keyboard-rescue.lib)(options "")(descr ""))
+  (lib (name teensy)(type Legacy)(uri /Users/troldrik/OneDrive/KiCAD/Symbols/teensy_library/teensy.lib)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrids)(type Legacy)(uri /Users/troldrik/OneDrive/KiCAD/Symbols/MX_ALPS_Hybrid/MX_Alps_Hybrids.lib)(options "")(descr ""))
+)

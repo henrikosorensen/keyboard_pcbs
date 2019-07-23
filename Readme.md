@@ -1,7 +1,7 @@
 GPLV2 licensed replacement keyboard PCBs.
 
 # Omnikey 
-Requires an Teensy++ 2.0 controller.
+Requires an Teensy++ 2.0 controller. - Firmware at https://github.com/qmk/qmk_firmware/tree/master/keyboards/omnikeyish
 
 ## Changelog
 
@@ -13,7 +13,7 @@ Requires an Teensy++ 2.0 controller.
 * Teensy++ 2.0 uses pin D6 for an LED, so that interfers with the ROW5 assignment used on 1.0 boards. Moved ROW5 to pin E6
 
 # AT101
-Requires an Teensy 2.0 controller
+Requires an Teensy 2.0 controller 
 
 ## Changelog
 
